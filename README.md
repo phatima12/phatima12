@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Welcome to Cudoon Tech!
 
-<!--
-**phatima12/phatima12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science & IT Student | Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I'm learning to build useful applications and improve my programming skills one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies I'm Learning
+
+- C#
+- Java
+- HTML & CSS
+- JavaScript
+- PHP
+- MySQL
+
+### 🎯 My Goals
+
+- Practice coding consistently.
+- Build real-world projects.
+- Improve my problem-solving skills.
+- Share my learning journey on GitHub.
+
+### 🌱 My Motto
+
+**Learn. Code. Build. Grow.**
+
+Thanks for visiting Cudoon Tech! ✨
