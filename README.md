@@ -29,7 +29,7 @@ I'm learning to build useful applications and improve my programming skills one 
 I'm a Computer Science & IT student passionate about learning programming and building useful applications.
 
 - 🎓 Studying Computer Science & IT
-- 💻 Learning C# and Java
+- 💻 Learning Programming language 
 - 🌐 Exploring web development
 - 🗄️ Practicing database management with MySQL
 - 🌱 Improving my coding skills step by step
