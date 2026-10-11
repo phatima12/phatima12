@@ -20,14 +20,11 @@ I'm learning to build useful applications and improve my programming skills one 
 - Improve my problem-solving skills.
 - Share my learning journey on GitHub.
 
-### 🌱 My Motto
 
-**Learn. Code. Build. Grow.**
 
-Thanks for visiting Cudoon Tech! ✨
 ### 👩‍💻 About Me
 
-Hi! Welcome to Cudoon Tech! 👋
+
 
 I'm a Computer Science & IT student passionate about learning programming and building useful applications.
 
@@ -38,6 +35,12 @@ I'm a Computer Science & IT student passionate about learning programming and bu
 - 🌱 Improving my coding skills step by step
 
 **My goal:** To become a skilled software developer and build useful technology solutions.
+
+### 🌱 My Motto
+
+**Learn. Code. Build. Grow.**
+
+Thanks for visiting Cudoon Tech! ✨
 
 ### 🛠️ Tech Stack
 
