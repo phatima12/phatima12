@@ -25,6 +25,20 @@ I'm learning to build useful applications and improve my programming skills one 
 **Learn. Code. Build. Grow.**
 
 Thanks for visiting Cudoon Tech! ✨
+### 👩‍💻 About Me
+
+Hi! Welcome to Cudoon Tech! 👋
+
+I'm a Computer Science & IT student passionate about learning programming and building useful applications.
+
+- 🎓 Studying Computer Science & IT
+- 💻 Learning C# and Java
+- 🌐 Exploring web development
+- 🗄️ Practicing database management with MySQL
+- 🌱 Improving my coding skills step by step
+
+**My goal:** To become a skilled software developer and build useful technology solutions.
+
 ### 🛠️ Tech Stack
 
 **Languages & Technologies I'm Learning**
